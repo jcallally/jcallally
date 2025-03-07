@@ -13,7 +13,7 @@
 </p>
 
 <!--Sobre mi-->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **Sobre mi**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> **Sobre mi**
 
 Soy un Ingeniero de Sistemas con más de cinco años de experiencia en desarrollo de software. Mi enfoque se centra en el desarrollo móvil Full Stack, especializándome en aplicaciones nativas para Android y desarrollo backend con Node.js. He trabajado en una variedad de proyectos, adquiriendo habilidades en diseño, desarrollo e implementación de soluciones robustas y escalables. Además, tengo experiencia en el desarrollo de API RESTful utilizando Node.js y otras tecnologías relacionadas. También he trabajado extensivamente con Firebase, utilizando sus servicios para la autenticación de usuarios, almacenamiento en la nube, bases de datos en tiempo real y notificaciones push, entre otros. Apasionado por aprender y crecer, me mantengo al día con las últimas tendencias tecnológicas y disfruto colaborar en equipos para convertir ideas en proyectos exitosos.
 
@@ -78,7 +78,7 @@ Soy un Ingeniero de Sistemas con más de cinco años de experiencia en desarroll
 <br>
 
 <!--Contacto-->
-## Ponte en contacto<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></picture>
+## Ponte en contacto🤝
 
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com)
