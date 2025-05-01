@@ -62,18 +62,18 @@ Soy un Ingeniero de Sistemas con más de cinco años de experiencia en desarroll
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width= 35px></picture>**GitHub Analytics**
 
 <p align="center">
-<a href="https://github.com/jcallally">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jcallally&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jcallally&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/jcallally">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jcallally&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jcallally&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <!--Trofeo (Estrellas)-->
-<div align=center>
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jcallally&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
-</div>
+</p>
 
 <br>
 
