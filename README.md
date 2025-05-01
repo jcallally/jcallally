@@ -72,14 +72,13 @@ Soy un Ingeniero de Sistemas con más de cinco años de experiencia en desarroll
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jcallally&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+  </a>
 </p>
 
 <br>
 
 <!--Contacto-->
 ## Ponte en contacto🤝
-
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com)
 [![gmail](https://skillicons.dev/icons?i=gmail)](https://www.gmail.com)
