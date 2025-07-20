@@ -7,9 +7,10 @@
 <img src="https://i.imgur.com/TStt3dP.png">
 
 <!--Visitantes-->
+<!--<img src="https://profile-counter.glitch.me/jcallally/count.svg" />-->
 <p align="center"> 
   Recuento de visitantes<br>
-  <img src="https://profile-counter.glitch.me/jcallally/count.svg" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jcallally.jcallally&color=2f81f7&style=flat-square&left_color=transparent" />
 </p>
 
 <!--Sobre mi-->
